@@ -8,7 +8,7 @@ export default function index() {
     >
       {/* <section className={}> */}
       <section>
-        <p>Hola Mundo</p>
+        <p>¡Hola Mundo!</p>
       </section>
     </Layout>
   )
